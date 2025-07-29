@@ -1,6 +1,6 @@
 class Comick extends ComicSource {
     name = "[comick]"
-    key = "[comick]"
+    key = "comick"
     version = "1.1.1"
     minAppVersion = "1.4.0"
     // update url
