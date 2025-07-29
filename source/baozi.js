@@ -3,7 +3,7 @@ class Baozi extends ComicSource {
   name = "[包子漫画]";
 
   // 唯一标识符
-  key = "[baozi]";
+  key = "baozi";
 
   version = "1.1.0";
 
