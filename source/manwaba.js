@@ -6,7 +6,7 @@ class ManWaBa extends ComicSource {
   name = "[漫蛙吧]";
 
   // unique id of the source
-  key = "[manwaba]";
+  key = "manwaba";
 
   version = "1.0.0";
 
