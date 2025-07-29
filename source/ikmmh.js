@@ -1,7 +1,7 @@
 class Ikm extends ComicSource {
   // 基础配置
   name = "[爱看漫]";
-  key = "[ikmmh]";
+  key = "ikmmh";
   version = "1.0.3";
   minAppVersion = "1.0.0";
   url = "https://github.com/bkk19999/comic_config/blob/main/source/ikmmh.js";
