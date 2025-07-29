@@ -6,7 +6,7 @@ class ZaiManHua extends ComicSource {
   name = "[再漫画]";
 
   // unique id of the source
-  key = "[zaimanhua]";
+  key = "zaimanhua";
 
   version = "1.0.0";
 
