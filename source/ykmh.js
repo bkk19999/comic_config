@@ -1,7 +1,7 @@
 /** @type {import('./_venera_.js')} */
 class YKMHSource extends ComicSource {
     name = "[优酷漫画]"
-    key = "[ykmh]"
+    key = "ykmh"
     version = "1.0.0"
     minAppVersion = "1.4.0"
     url = "https://github.com/bkk19999/comic_config/blob/main/source/ykmh.js"
