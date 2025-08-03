@@ -1,19 +1,5 @@
 [
     {
-        "name": "[拷贝漫画]",
-        "fileName": "copy_manga.js",
-        "url": "https://github.com/bkk19999/comic_config/blob/main/source/copy_manga.js",
-        "key": "copy_manga",
-        "version": "1.3.6"
-    },
-    {
-        "name": "[Komiic]",
-        "fileName": "komiic.js",
-        "url": "https://github.com/bkk19999/comic_config/blob/main/source/komiic.js",
-        "key": "Komiic",
-        "version": "1.0.2"
-    },
-    {
         "name": "[包子漫画]",
         "fileName": "baozi.js",
         "url": "https://github.com/bkk19999/comic_config/blob/main/source/baozi.js",
@@ -40,5 +26,12 @@
         "url": "https://github.com/bkk19999/comic_config/blob/main/source/zaimanhua.js",
         "key": "zaimanhua",
         "version": "1.0.0"
+    },
+    {
+        "name": "[Komiic]",
+        "fileName": "komiic.js",
+        "url": "https://github.com/bkk19999/comic_config/blob/main/source/komiic.js",
+        "key": "Komiic",
+        "version": "1.0.2"
     }
 ]
